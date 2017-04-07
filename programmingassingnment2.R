@@ -29,7 +29,7 @@ cacheSolve <- function(i, ...) {
   inverse
 }
 
-
+## CHECKING THE CODE WITH EXAMPLE
 my_matrix <- makeCacheMatrix(matrix(c(4,2,7,6), 2, 2))
 my_matrix$get()
        [,1] [,2]
